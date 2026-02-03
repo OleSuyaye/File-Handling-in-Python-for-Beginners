@@ -1,4 +1,6 @@
 import re
+
+
 # Python program to read an entire text file.
 with open("mybio.txt", "r") as file:
     content = file.read()
@@ -32,13 +34,14 @@ with open("mybio.txt", "r") as file:
     content = file.read()
     print(content.split("\n"))
 print("-----------------------------------------------------------------------")
+
 # or
 with open("mybio.txt", "r") as file:
-    lines = file.readlines()  # Reads the file into a list of lines automatically
+    lines = file.readlines()  
     print(lines)
 print("-----------------------------------------------------------------------")
 with open("mybio.txt", "r") as file:
-    line = file.readline()  # Reads the file into a list of lines automatically
+    line = file.readline()  
     print(line)
 print("-----------------------------------------------------------------------")
 
