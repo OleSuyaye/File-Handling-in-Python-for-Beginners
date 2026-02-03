@@ -1,0 +1,4 @@
+My name is Kevin, and this is a file text I have created from the MacBook terminal window so that I can use to practice file handling in Python.
+Anyway, I am from Nairobi Kenya, but as I type this, I am in Dubai, and I am using my free time to learn Python as a programming language.
+It has been an exhilarating journey, with lots of frustrations and learning.
+This last line was appended.
